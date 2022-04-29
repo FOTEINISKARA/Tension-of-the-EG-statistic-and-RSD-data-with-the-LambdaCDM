@@ -12,7 +12,7 @@ The  $E_G$ statistic is a powerful probe for detecting deviations from GR by com
 
 If you use any of the above codes or the figures in a published work please cite the following paper:
 
-Hubble tension or a transition of the Cepheid SnIa calibrator parameters?
+Tension of the $E_G$ statistic and RSD data with Planck/$\Lambda$CDM  and implications for weakening gravity.
 
 Leandros Perivolaropoulos and Foteini Skara  arXiv:1911.10609
 
